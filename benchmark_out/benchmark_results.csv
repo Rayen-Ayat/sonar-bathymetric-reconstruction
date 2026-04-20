@@ -1,0 +1,13 @@
+lake,algorithm,vertices,triangles,time_s,tri_quality,coverage_pct,gap_pct,median_edge_m,watertight,cv_rmse,combined_score,error
+brunette,grid,158631,315401,21.02,0.82187,94.31,41.28,1.027,False,,,
+brunette,delaunay,432463,821657,3.63,0.73795,100.0,76.34,0.414,False,,,
+brunette,poisson,129066,255770,3.27,0.72863,99.8,50.55,1.278,False,,,
+brunette,bpa,150000,265629,14.16,0.74422,100.0,75.75,0.69,False,,,
+hunters,grid,168275,334808,81.96,0.85542,97.76,24.16,1.039,False,,,
+hunters,delaunay,707275,1343795,7.26,0.69281,100.0,65.88,0.388,False,,,
+hunters,poisson,133138,263941,2.74,0.71427,98.96,40.44,1.196,False,,,
+hunters,bpa,150000,246697,6.54,0.72097,97.81,65.54,0.79,False,,,
+mclain,grid,153339,304916,23.83,0.82694,93.52,29.65,1.029,False,,,
+mclain,delaunay,492139,935030,3.89,0.74731,100.0,78.33,0.392,False,,,
+mclain,poisson,123672,245179,2.53,0.72239,99.73,46.95,1.207,False,,,
+mclain,bpa,150000,263695,5.44,0.74669,100.0,77.11,0.678,False,,,

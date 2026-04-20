@@ -1,0 +1,12 @@
+name: sonar-recon
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy=1.26.4
+  - scipy=1.10.1
+  - matplotlib=3.10.0
+  - pip
+  - pip:
+      - open3d==0.19.0
