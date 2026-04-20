@@ -142,4 +142,4 @@ MIT — see [LICENSE](LICENSE).
 
 ## Contact
 
-Mohamed Rayen Ayat — <your_email>
+Mohamed Rayen Ayat — ayatmohamedrayen@gmail.com
